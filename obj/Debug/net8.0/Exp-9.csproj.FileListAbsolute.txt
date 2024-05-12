@@ -1,0 +1,15 @@
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\bin\Debug\net8.0\Exp-9.exe
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\bin\Debug\net8.0\Exp-9.deps.json
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\bin\Debug\net8.0\Exp-9.runtimeconfig.json
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\bin\Debug\net8.0\Exp-9.dll
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\bin\Debug\net8.0\Exp-9.pdb
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\obj\Debug\net8.0\Exp-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\obj\Debug\net8.0\Exp-9.AssemblyInfoInputs.cache
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\obj\Debug\net8.0\Exp-9.AssemblyInfo.cs
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\obj\Debug\net8.0\Exp-9.csproj.CoreCompileInputs.cache
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\obj\Debug\net8.0\Exp-9.sourcelink.json
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\obj\Debug\net8.0\Exp-9.dll
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\obj\Debug\net8.0\refint\Exp-9.dll
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\obj\Debug\net8.0\Exp-9.pdb
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\obj\Debug\net8.0\Exp-9.genruntimeconfig.cache
+C:\Users\SEC\OneDrive\Desktop\C#-09\Exp-9\obj\Debug\net8.0\ref\Exp-9.dll
